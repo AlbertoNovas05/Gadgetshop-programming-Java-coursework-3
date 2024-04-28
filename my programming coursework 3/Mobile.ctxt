@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Mobile
+comment0.text=\r\n\ The\ Mobile\ class\ represents\ a\ mobile\ phone,\ which\ is\ a\ subclass\ of\ Gadget.\r\n
+comment1.params=model\ price\ weight\ size\ callingCredit
+comment1.target=Mobile(java.lang.String,\ double,\ int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ to\ initialize\ the\ Mobile\ with\ model,\ price,\ weight,\ size,\ and\ calling\ credit.\r\n\ @param\ model\ The\ model\ of\ the\ mobile\ phone.\r\n\ @param\ price\ The\ price\ of\ the\ mobile\ phone\ in\ pounds.\r\n\ @param\ weight\ The\ weight\ of\ the\ mobile\ phone\ in\ grams.\r\n\ @param\ size\ The\ size\ of\ the\ mobile\ phone\ in\ mm\ (e.g.,\ "71mm\ x\ 137mm\ x\ 9mm").\r\n\ @param\ callingCredit\ The\ initial\ calling\ credit\ of\ the\ mobile\ phone.\r\n
+comment2.params=
+comment2.target=int\ getCallingCredit()
+comment2.text=\r\n\ Accessor\ method\ to\ retrieve\ the\ calling\ credit\ of\ the\ mobile\ phone.\r\n\ @return\ The\ calling\ credit\ of\ the\ mobile\ phone.\r\n
+comment3.params=creditToAdd
+comment3.target=void\ addCallingCredit(int)
+comment3.text=\r\n\ Method\ to\ add\ calling\ credit\ to\ the\ mobile\ phone.\r\n\ @param\ creditToAdd\ The\ amount\ of\ credit\ to\ add.\r\n
+comment4.params=phoneNumber\ durationMinutes
+comment4.target=void\ makeCall(java.lang.String,\ int)
+comment4.text=\r\n\ Method\ to\ make\ a\ phone\ call.\r\n\ @param\ phoneNumber\ The\ phone\ number\ to\ call.\r\n\ @param\ durationMinutes\ The\ duration\ of\ the\ call\ in\ minutes.\r\n
+comment5.params=
+comment5.target=void\ display()
+comment5.text=\r\n\ Display\ method\ to\ output\ the\ details\ of\ the\ mobile\ phone.\r\n
+numComments=6
